@@ -49,6 +49,21 @@ them with
 bower install
 ```
 
+Development
+-----------
+
+### Starting Server
+
+[grunt][] is able to start a server that serves the presentation with
+the following command.
+
+```sh
+grunt server
+```
+
+This will watch the filesystem for changes and will reload the browser
+when they occur.
+
 [yo]: http://yeoman.io/
 [grunt]: http://gruntjs.com/
 [bower]: http://bower.io/
