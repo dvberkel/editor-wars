@@ -64,8 +64,21 @@ grunt server
 This will watch the filesystem for changes and will reload the browser
 when they occur.
 
+### Scaffold Slide
+
+[generator-reveal][] can be used to scaffold a new slide. The basic
+command to do that is
+
+```sh
+yo reveal:slide "Title"
+```
+
+See the [documentation][reveal:slide] for an explanation of all the
+options.
+
 [yo]: http://yeoman.io/
 [grunt]: http://gruntjs.com/
 [bower]: http://bower.io/
 [node]: http://nodejs.org/
 [generator-reveal]: https://github.com/slara/generator-reveal
+[reveal:slide]: https://github.com/slara/generator-reveal#generators
