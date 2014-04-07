@@ -76,6 +76,14 @@ yo reveal:slide "Title"
 See the [documentation][reveal:slide] for an explanation of all the
 options.
 
+### Create Distribution
+
+```sh
+grunt dist
+```
+
+builds a distribution that can be statically hosted.
+
 [yo]: http://yeoman.io/
 [grunt]: http://gruntjs.com/
 [bower]: http://bower.io/
