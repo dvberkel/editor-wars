@@ -1,4 +1,4 @@
-ecc-101
+ECC-101
 =======
 
-An short primer on Elliptic Curve Crtptography
+An short primer on Elliptic Curve Cryptography.
