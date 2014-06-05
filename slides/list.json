@@ -5,5 +5,10 @@
         "attr": {
             "data-background": "image/hammer.jpg"
         }
+    },
+    {
+        "attr": {
+            "data-background": "image/pneumatic-hammer.jpg"
+        }
     }
 ]
