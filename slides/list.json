@@ -1,4 +1,9 @@
 [
     "index.md",
-    "quit.md"
+    "quit.md",
+    {
+        "attr": {
+            "data-background": "image/hammer.jpg"
+        }
+    }
 ]
