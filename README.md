@@ -1,7 +1,7 @@
-ECC-101
-=======
+Editor Wars
+===========
 
-An short primer on Elliptic Curve Cryptography.
+A lightning talk for [Rails Girls Amsterdam 2014][rgams2014]
 
 Setup
 -----
@@ -84,6 +84,7 @@ grunt dist
 
 builds a distribution that can be statically hosted.
 
+[rgams2014]: http://railsgirls.com/amsterdam2
 [yo]: http://yeoman.io/
 [grunt]: http://gruntjs.com/
 [bower]: http://bower.io/
