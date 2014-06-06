@@ -1,3 +1,3 @@
 # Editor Wars
 
-## The Final Chapter
+# The Final Chapter
