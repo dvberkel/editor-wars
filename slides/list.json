@@ -1,15 +1,15 @@
 [
     {
         "filename": "index.md",
-	"attr": {
-	    "data-background": "image/atomic-bomb-explosion.jpg"
-	}
+        "attr": {
+            "data-background": "image/atomic-bomb-explosion.jpg"
+        }
     },
     {
         "filename": "quit.md",
-	"attr": {
-	    "data-background": "image/peace.jpg"
-	}
+        "attr": {
+            "data-background": "image/peace.jpg"
+        }
     },
     {
         "attr": {
@@ -20,5 +20,9 @@
         "attr": {
             "data-background": "image/pneumatic-hammer.jpg"
         }
-    }
+    },
+    "tools.md",
+    "sides.md",
+    "learn-curve.md",
+    "xkcd.md"
 ]
