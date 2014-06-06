@@ -5,7 +5,12 @@
 	    "data-background": "image/atomic-bomb-explosion.jpg"
 	}
     },
-    "quit.md",
+    {
+        "filename": "quit.md",
+	"attr": {
+	    "data-background": "image/peace.jpg"
+	}
+    },
     {
         "attr": {
             "data-background": "image/hammer.jpg"
