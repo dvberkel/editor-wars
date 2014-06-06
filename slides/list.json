@@ -6,12 +6,6 @@
         }
     },
     {
-        "filename": "quit.md",
-        "attr": {
-            "data-background": "image/peace.jpg"
-        }
-    },
-    {
         "attr": {
             "data-background": "image/hammer.jpg"
         }
@@ -22,7 +16,14 @@
         }
     },
     "tools.md",
-    "sides.md",
     "learn-curve.md",
-    "xkcd.md"
+    "xkcd.md",
+    "sides.md",
+    "fight.md",
+    {
+        "filename": "quit.md",
+        "attr": {
+            "data-background": "image/peace.jpg"
+        }
+    }
 ]
