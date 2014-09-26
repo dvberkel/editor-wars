@@ -1,0 +1,11 @@
+Hello RailsGirls Amsterdam!
+
+How are you?
+
+Do you like this editor.
+
+You can type really fast and it will pick up all the correct
+tokens. This is possible because it forms a telepahtic link with the
+typist.
+
+That is not true.
